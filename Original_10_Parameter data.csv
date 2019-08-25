@@ -1,0 +1,172 @@
+Gender,Category,SSC%,HSC%,classification,resource,place_of_study,attendance,GPA
+Male,Rural,70,65,Government,All of them,Home,90.5,3.3
+Male,Urban,70,70,Private,Internet,Library,70.5,3.3
+Male,Urban,70,65,Private,All of them,Home,70.5,3.3
+Male,Rural,90,65,Government,Notes given by teacher,Home,90.5,3.8
+Male,Urban,90,90,Semi-Government,Internet,Home,90.5,3.3
+Male,Rural,90,70,Private,Books,Library,90.5,3.3
+Male,Rural,70,70,Government,All of them,Hostel/Friend's Place,70.5,2
+Female,Urban,70,65,Private,Internet,Home,50.5,2
+Male,Rural,70,70,Government,Internet,Hostel/Friend's Place,70.5,2.7
+Male,Urban,65,70,Government,Internet,Library,90.5,3.3
+Female,Urban,70,90,Government,All of them,Home,90.5,3.8
+Male,Rural,70,70,Government,Notes prepare by yourself from leature,Library,90.5,3.8
+Male,Rural,70,70,Government,All of them,Home,90.5,3.8
+Male,Urban,90,65,Government,All of them,Hostel/Friend's Place,90.5,3.3
+Male,Urban,70,70,Government,Internet,Home,90.5,3.3
+Male,Urban,65,65,Government,Internet,Lab,90.5,3.8
+Male,Urban,90,70,Government,All of them,Library & Home,90.5,3.8
+Male,Urban,70,65,Private,Books,Library,90.5,3.3
+Male,Urban,90,90,Semi-Government,All of them,Library,90.5,2.7
+Male,Rural,90,70,Government,Research Paper,Home,70.5,2.7
+Male,Rural,70,65,Government,All of them,Home,70.5,2.7
+Male,Urban,70,70,Government,Notes prepare by yourself from leature,Home,70.5,3.3
+Male,Rural,70,70,Semi-Government,All of them,Home,90.5,3.3
+Male,Rural,90,70,Private,All of them,Home,70.5,3.3
+Male,Rural,70,70,Semi-Government,Internet,Hostel/Friend's Place,50.5,3.3
+Male,Rural,70,70,Government,All of them,Home,70.5,2
+Male,Urban,70,70,Government,Notes given by teacher,Home,70.5,3.3
+Female,Urban,90,70,Government,Research Paper,Home,70.5,3.8
+Female,Urban,90,70,Private,Internet,Home,70.5,3.8
+Female,Urban,90,70,Government,All of them,Library,70.5,3.3
+Male,Urban,70,70,Private,All of them,Home,90.5,3.8
+Male,Rural,70,65,Government,All of them,Home,90.5,3.3
+Male,Urban,70,70,Private,Internet,Library,70.5,3.3
+Male,Urban,70,65,Private,All of them,Home,70.5,3.3
+Male,Rural,65,65,Government,Notes given by teacher,Library,90.5,2
+Male,Rural,90,65,Government,Notes given by teacher,Home,90.5,3.8
+Male,Urban,90,90,Semi-Government,Internet,Home,90.5,3.3
+Male,Rural,90,70,Private,Books,Library,90.5,3.3
+Male,Rural,70,70,Government,All of them,Hostel/Friend's Place,70.5,2
+Female,Urban,70,65,Private,Internet,Home,50.5,2
+Male,Rural,70,70,Government,Internet,Hostel/Friend's Place,70.5,2.7
+Male,Urban,65,70,Government,Internet,Library,90.5,3.3
+Female,Urban,70,90,Government,All of them,Home,90.5,3.8
+Male,Rural,70,70,Government,Notes prepare by yourself from leature,Library,90.5,3.8
+Male,Rural,70,70,Government,All of them,Home,90.5,3.8
+Male,Urban,90,65,Government,All of them,Hostel/Friend's Place,90.5,3.3
+Male,Urban,70,70,Government,Internet,Home,90.5,3.3
+Male,Urban,65,65,Government,Internet,Lab,90.5,3.8
+Male,Urban,90,70,Government,All of them,Library & Home,90.5,3.8
+Male,Urban,70,65,Private,Books,Library,90.5,3.3
+Male,Urban,90,90,Semi-Government,All of them,Library,90.5,2.7
+Male,Rural,90,70,Government,Research Paper,Home,70.5,2.7
+Male,Rural,70,65,Government,All of them,Home,70.5,2.7
+Male,Urban,70,70,Government,Notes prepare by yourself from leature,Home,70.5,3.3
+Male,Rural,70,70,Semi-Government,All of them,Home,90.5,3.3
+Male,Rural,90,70,Private,All of them,Home,70.5,3.3
+Male,Rural,70,70,Semi-Government,Internet,Hostel/Friend's Place,50.5,3.3
+Male,Rural,70,70,Government,All of them,Home,70.5,2
+Male,Urban,70,70,Government,Notes given by teacher,Home,70.5,3.3
+Female,Urban,90,70,Government,Research Paper,Home,70.5,3.8
+Female,Urban,90,70,Private,Internet,Home,70.5,3.8
+Female,Urban,90,70,Government,All of them,Library,70.5,3.3
+Male,Urban,70,70,Private,All of them,Home,90.5,3.8
+Male,Rural,70,70,Government,All of them,Home,90.5,3.3
+Male,Urban,70,70,Government,Internet,Home,90.5,3.3
+Male,Urban,70,65,Government,All of them,Home,70.5,3.3
+Male,Urban,70,65,Government,Notes prepare by yourself from leature,Library,90.5,2.7
+Male,Urban,90,65,Semi-Government,Notes prepare by yourself from leature,Library,90.5,3.3
+Male,Rural,70,70,Government,Internet,Library,90.5,3.8
+Male,Rural,70,70,Government,All of them,Library,90.5,3.3
+Female,Rural,90,70,Government,All of them,Home,90.5,3.8
+Male,Urban,90,70,Government,Internet,Hostel/Friend's Place,50.5,2.7
+Male,Urban,70,65,Government,Internet,Home,90.5,3.8
+Male,Rural,65,65,Government,Books,Home,90.5,3.3
+Female,Urban,90,70,Private,All of them,Home,90.5,3.3
+Male,Rural,90,70,Government,All of them,Library,90.5,3.3
+Male,Urban,90,70,Government,Research Paper,Lab,90.5,3.8
+Female,Urban,70,70,Private,Internet,Home,90.5,3.8
+Male,Rural,90,70,Private,Notes prepare by yourself from leature,Home,70.5,2.7
+Male,Rural,90,65,Government,All of them,Library,90.5,3.3
+Male,Urban,70,70,Private,All of them,Home,70.5,3.3
+Male,Rural,90,70,Government,All of them,Library,70.5,2.7
+Male,Rural,70,70,Government,Internet,Home,90.5,3.3
+Female,Urban,90,70,Private,All of them,Home,50.5,3.3
+Male,Urban,90,70,Government,Books,Library,90.5,3.8
+Female,Urban,90,70,Government,Internet,Home,90.5,3.8
+Female,Rural,70,70,Private,Notes prepare by yourself from leature,Home,90.5,3.3
+Female,Urban,90,70,Government,All of them,Lab,90.5,3.8
+Male,Urban,70,70,Government,All of them,Home,90.5,3.8
+Female,Urban,90,70,Government,Internet,Home,90.5,3.3
+Female,Urban,90,70,Government,All of them,Home,90.5,3.8
+Female,Rural,90,70,Government,All of them,Home,90.5,3.8
+Female,Urban,70,70,Government,Internet,Home,70.5,3.3
+Male,Urban,70,70,Government,Internet,Home,70.5,2.7
+Male,Urban,70,70,Private,Internet,Home,30.5,3.3
+Female,Rural,70,70,Private,All of them,Library,90.5,3.3
+Male,Urban,65,55,Government,All of them,Home,90.5,3.8
+Female,Urban,90,70,Private,Internet,Library,90.5,3.3
+Male,Rural,70,70,Private,All of them,Library,90.5,3.3
+Male,Rural,90,90,Government,Books,Library,90.5,3.3
+Male,Urban,90,70,Government,All of them,Home,90.5,3.8
+Male,Urban,90,70,Government,Internet,Lab,70.5,3.3
+Female,Urban,90,70,Private,All of them,Home,90.5,3.8
+Male,Rural,70,65,Government,Internet,Library,70.5,3.3
+Male,Urban,70,70,Private,Notes prepare by yourself from leature,Hostel/Friend's Place,70.5,3.3
+Male,Rural,90,70,Government,All of them,Home,70.5,3.3
+Female,Rural,90,70,Private,Internet,Home,90.5,3.3
+Male,Urban,90,70,Government,Books,Library,70.5,3.3
+Male,Rural,70,70,Government,Notes given by teacher,Library,70.5,2.7
+Male,Urban,90,70,Private,Notes given by teacher,Home,70.5,3.3
+Male,Urban,90,70,Government,All of them,Home,70.5,3.3
+Male,Rural,90,70,Semi-Government,Notes prepare by yourself from leature,Home,90.5,3.8
+Male,Urban,65,70,Government,All of them,Home,70.5,3.3
+Male,Urban,90,70,Government,Notes prepare by yourself from leature,Library,90.5,3.8
+Male,Rural,70,70,Semi-Government,Notes given by teacher,Hostel/Friend's Place,70.5,3.8
+Male,Urban,90,70,Semi-Government,All of them,Home,90.5,3.3
+Male,Rural,70,70,Private,All of them,Home,90.5,3.3
+Male,Urban,90,90,Semi-Government,All of them,Home,70.5,3.3
+Male,Urban,70,70,Private,Internet,Home,70.5,3.8
+Male,Urban,90,70,Government,All of them,Home,90.5,3.8
+Male,Urban,70,65,Government,Notes given by teacher,Home,50.5,3.3
+Male,Rural,90,70,Private,Notes prepare by yourself from leature,Home,70.5,3.3
+Male,Urban,70,70,Government,All of them,Home,70.5,3.8
+Male,Urban,90,90,Private,All of them,Home,30.5,3.3
+Male,Urban,70,70,Semi-Government,All of them,Home,90.5,3.8
+Male,Urban,90,70,Government,All of them,Home,90.5,3.3
+Male,Rural,70,65,Government,All of them,Home,70.5,2.7
+Female,Urban,70,70,Government,Notes given by teacher,Home,70.5,2
+Male,Rural,90,70,Private,Notes prepare by yourself from leature,Home,90.5,2
+Female,Urban,70,90,Private,Internet,Home,70.5,2
+Male,Rural,70,70,Government,Internet,Home,90.5,3.3
+Male,Rural,65,70,Government,All of them,Library,90.5,3.3
+Female,Urban,70,70,Private,Internet,Home,90.5,2
+Female,Urban,90,70,Government,All of them,Home,90.5,3.8
+Male,Urban,65,90,Government,Notes prepare by yourself from leature,Hostel/friend's place,90.5,3.3
+Female,Urban,70,70,Government,Notes prepare by yourself from leature,Home,90.5,2
+Male,Urban,70,65,Government,Notes prepare by yourself from leature,Home,90.5,2
+Male,Rural,65,65,Private,Internet,Home,70.5,2.7
+Male,Urban,70,70,Private,All of them,Home,90.5,3.3
+Male,Urban,70,70,Private,Notes prepare by yourself from leature,Hostel/friend's place,70.5,3.3
+Male,Rural,90,90,Private,Notes prepare by yourself from leature,Home,50.5,2.7
+Male,Rural,70,70,Private,All of them,Any other place,90.5,2
+Male,Rural,90,70,Semi-Government,Internet,Hostel/friend's place,90.5,3.8
+Male,Rural,70,65,Government,All of them,Hostel/friend's place,90.5,3.3
+Male,Rural,90,65,Semi-Government,Internet,Library,70.5,3.3
+Male,Urban,90,90,Private,Internet,Home,70.5,2
+Male,Rural,90,90,Private,Notes given by teacher,Hostel/friend's place,90.5,2
+Male,Urban,90,70,Private,Notes given by teacher,Library,90.5,3.3
+Female,Rural,90,70,Private,Internet,Home,90.5,3.3
+Female,Urban,90,70,Private,Notes prepare by yourself from leature,Hostel/friend's place,70.5,3.8
+Female,Urban,90,70,Government,All of them,Home,90.5,3.8
+Female,Urban,90,70,Private,Internet,Home,90.5,3.3
+Female,Urban,70,65,Government,Notes prepare by yourself from leature,Home,70.5,3.8
+Female,Urban,90,70,Private,All of them,Home,90.5,3.8
+Male,Rural,65,90,Private,All of them,Hostel/friend's place,70.5,2
+Male,Urban,70,70,Government,Internet,Home,70.5,3.8
+Male,Urban,70,70,Private,Notes prepare by yourself from leature,Home,90.5,3.3
+Male,Rural,70,70,Private,Internet,Hostel/friend's place,70.5,2
+Male,Rural,90,70,Private,All of them,Hostel/friend's place,70.5,2
+Male,Rural,65,65,Government,All of them,Hostel/friend's place,90.5,2
+Male,Urban,90,70,Private,All of them,Home,90.5,3.8
+Male,Rural,65,70,Government,Notes given by teacher,Home,70.5,3.3
+Male,Rural,70,70,Government,Internet,Home,90.5,3.3
+Male,Urban,90,70,Government,All of them,Home,70.5,3.3
+Male,Urban,90,70,Government,All of them,Home,90.5,3.3
+Female,Urban,90,70,Government,All of them,Home,90.5,3.8
+Male,Rural,70,70,Private,All of them,Library,90.5,3.3
+Female,Urban,70,70,Private,Internet,Home,90.5,3.8
+Female,Urban,70,70,Government,Internet,Home,70.5,3.3
+Female,Urban,90,70,Government,Internet,Home,90.5,3.3
+Male,Rural,70,70,Private,All of them,Home,90.5,2

@@ -1,0 +1,440 @@
+classification,resource,place_of_study,sleep_time,time_spend_on_social_media,SSC,HSC,attendance,self_study,GPA
+Government,All of them,Home,6 to 8 hours,1 to 2 hours,A,B,81-100%,6 to 10 hours,3.5 to 3.0
+Private,Internet,Library,3 to 5 hours,3 to 5 hours,A,A,61-80%,6 to 10 hours,3.5 to 3.0
+Private,All of them,Home,9 to 11 hours,3 to 5 hours,A,B,61-80%,6 to 10 hours,3.5 to 3.0
+Government,Notes given by teacher,Home,6 to 8 hours,6 to 9 hours,A1,B,81-100%,Less than 5 hours,4.0 to 3.6
+Semi-Government,Internet,Home,6 to 8 hours,Less-than 1 hour,A1,A1,81-100%,Less than 5 hours,3.5 to 3.0
+Private,Books,Library,6 to 8 hours,6 to 9 hours,A1,A,81-100%,Less than 5 hours,3.5 to 3.0
+Government,All of them,Hostel/Friend's Place,9 to 11 hours,1 to 2 hours,A,A,61-80%,Less than 5 hours,Less than 2.5
+Private,Internet,Home,9 to 11 hours,Less-than 1 hour,A,B,41-60%,11 to 15 hours,Less than 2.5
+Government,Internet,Hostel/Friend's Place,3 to 5 hours,6 to 9 hours,A,A,61-80%,Less than 5 hours,2.9 to 2.5
+Government,Internet,Library,6 to 8 hours,1 to 2 hours,B,A,81-100%,6 to 10 hours,3.5 to 3.0
+Government,All of them,Home,3 to 5 hours,1 to 2 hours,A,A1,81-100%,More than 15 hours,4.0 to 3.6
+Government,Notes prepare by yourself from lecture,Library,6 to 8 hours,6 to 9 hours,A,A,81-100%,11 to 15 hours,4.0 to 3.6
+Government,All of them,Home,6 to 8 hours,1 to 2 hours,A,A,81-100%,More than 15 hours,4.0 to 3.6
+Government,All of them,Hostel/Friend's Place,3 to 5 hours,3 to 5 hours,A1,B,81-100%,6 to 10 hours,3.5 to 3.0
+Government,Internet,Home,9 to 11 hours,6 to 9 hours,A,A,81-100%,Less than 5 hours,3.5 to 3.0
+Government,Internet,Lab,6 to 8 hours,3 to 5 hours,B,B,81-100%,Less than 5 hours,4.0 to 3.6
+Government,All of them,Library & Home,6 to 8 hours,3 to 5 hours,A1,A,81-100%,More than 15 hours,4.0 to 3.6
+Private,Books,Library,3 to 5 hours,Less-than 1 hour,A,B,81-100%,Less than 5 hours,3.5 to 3.0
+Semi-Government,All of them,Library,9 to 11 hours,Less-than 1 hour,A1,A1,81-100%,11 to 15 hours,2.9 to 2.5
+Government,Research Paper,Home,6 to 8 hours,1 to 2 hours,A1,A,61-80%,6 to 10 hours,2.9 to 2.5
+Government,All of them,Home,9 to 11 hours,6 to 9 hours,A,B,61-80%,Less than 5 hours,2.9 to 2.5
+Government,Notes prepare by yourself from lecture,Home,6 to 8 hours,3 to 5 hours,A,A,61-80%,6 to 10 hours,3.5 to 3.0
+Semi-Government,All of them,Home,6 to 8 hours,1 to 2 hours,A,A,81-100%,11 to 15 hours,3.5 to 3.0
+Private,All of them,Home,6 to 8 hours,3 to 5 hours,A1,A,61-80%,Less than 5 hours,3.5 to 3.0
+Semi-Government,Internet,Hostel/Friend's Place,6 to 8 hours,3 to 5 hours,A,A,41-60%,Less than 5 hours,3.5 to 3.0
+Government,All of them,Home,9 to 11 hours,1 to 2 hours,A,A,61-80%,6 to 10 hours,3.5 to 3.0
+Government,Notes given by teacher,Home,6 to 8 hours,3 to 5 hours,A,A,61-80%,6 to 10 hours,2.9 to 2.5
+Government,Research Paper,Home,6 to 8 hours,3 to 5 hours,A1,A,61-80%,6 to 10 hours,4.0 to 3.6
+Private,Internet,Home,6 to 8 hours,3 to 5 hours,A1,A,61-80%,6 to 10 hours,4.0 to 3.6
+Government,All of them,Library,6 to 8 hours,3 to 5 hours,A1,A,61-80%,More than 15 hours,3.5 to 3.0
+Private,All of them,Home,3 to 5 hours,1 to 2 hours,A,A,81-100%,6 to 10 hours,4.0 to 3.6
+Government,All of them,Home,6 to 8 hours,1 to 2 hours,A,B,81-100%,6 to 10 hours,3.5 to 3.0
+Private,Internet,Library,3 to 5 hours,3 to 5 hours,A,A,61-80%,6 to 10 hours,3.5 to 3.0
+Private,All of them,Home,9 to 11 hours,3 to 5 hours,A,B,61-80%,6 to 10 hours,3.5 to 3.0
+Government,Notes given by teacher,Library,6 to 8 hours,1 to 2 hours,B,B,81-100%,11 to 15 hours,Less than 2.5
+Government,Notes given by teacher,Home,6 to 8 hours,6 to 9 hours,A1,B,81-100%,Less than 5 hours,4.0 to 3.6
+Semi-Government,Internet,Home,6 to 8 hours,Less-than 1 hour,A1,A1,81-100%,Less than 5 hours,3.5 to 3.0
+Private,Books,Library,6 to 8 hours,6 to 9 hours,A1,A,81-100%,Less than 5 hours,3.5 to 3.0
+Government,All of them,Hostel/Friend's Place,9 to 11 hours,1 to 2 hours,A,A,61-80%,Less than 5 hours,Less than 2.5
+Private,Internet,Home,9 to 11 hours,Less-than 1 hour,A,B,41-60%,11 to 15 hours,Less than 2.5
+Government,Internet,Hostel/Friend's Place,3 to 5 hours,6 to 9 hours,A,A,61-80%,Less than 5 hours,2.9 to 2.5
+Government,Internet,Library,6 to 8 hours,1 to 2 hours,B,A,81-100%,6 to 10 hours,2.9 to 2.5
+Government,All of them,Home,3 to 5 hours,1 to 2 hours,A,A1,81-100%,More than 15 hours,4.0 to 3.6
+Government,Notes prepare by yourself from lecture,Library,6 to 8 hours,6 to 9 hours,A,A,81-100%,11 to 15 hours,4.0 to 3.6
+Government,All of them,Home,6 to 8 hours,1 to 2 hours,A,A,81-100%,More than 15 hours,4.0 to 3.6
+Government,All of them,Hostel/Friend's Place,3 to 5 hours,3 to 5 hours,A1,B,81-100%,6 to 10 hours,3.5 to 3.0
+Government,Internet,Home,9 to 11 hours,6 to 9 hours,A,A,81-100%,Less than 5 hours,3.5 to 3.0
+Government,Internet,Lab,6 to 8 hours,3 to 5 hours,B,B,81-100%,Less than 5 hours,4.0 to 3.6
+Government,All of them,Library & Home,6 to 8 hours,3 to 5 hours,A1,A,81-100%,More than 15 hours,4.0 to 3.6
+Private,Books,Library,3 to 5 hours,Less-than 1 hour,A,B,81-100%,Less than 5 hours,3.5 to 3.0
+Semi-Government,All of them,Library,9 to 11 hours,Less-than 1 hour,A1,A1,81-100%,11 to 15 hours,2.9 to 2.5
+Government,Research Paper,Home,6 to 8 hours,1 to 2 hours,A1,A,61-80%,6 to 10 hours,2.9 to 2.5
+Government,All of them,Home,9 to 11 hours,6 to 9 hours,A,B,61-80%,Less than 5 hours,2.9 to 2.5
+Government,Notes prepare by yourself from lecture,Home,6 to 8 hours,3 to 5 hours,A,A,61-80%,6 to 10 hours,3.5 to 3.0
+Semi-Government,All of them,Home,6 to 8 hours,1 to 2 hours,A,A,81-100%,11 to 15 hours,3.5 to 3.0
+Private,All of them,Home,6 to 8 hours,3 to 5 hours,A1,A,61-80%,Less than 5 hours,3.5 to 3.0
+Semi-Government,Internet,Hostel/Friend's Place,6 to 8 hours,3 to 5 hours,A,A,41-60%,Less than 5 hours,3.5 to 3.0
+Government,All of them,Home,9 to 11 hours,1 to 2 hours,A,A,61-80%,6 to 10 hours,Less than 2.5
+Government,Notes given by teacher,Home,6 to 8 hours,3 to 5 hours,A,A,61-80%,6 to 10 hours,3.5 to 3.0
+Government,Research Paper,Home,6 to 8 hours,3 to 5 hours,A1,A,61-80%,6 to 10 hours,4.0 to 3.6
+Private,Internet,Home,6 to 8 hours,3 to 5 hours,A1,A,61-80%,6 to 10 hours,4.0 to 3.6
+Government,All of them,Library,6 to 8 hours,3 to 5 hours,A1,A,61-80%,More than 15 hours,3.5 to 3.0
+Private,All of them,Home,3 to 5 hours,1 to 2 hours,A,A,81-100%,6 to 10 hours,4.0 to 3.6
+Government,All of them,Home,6 to 8 hours,3 to 5 hours,A,A,81-100%,6 to 10 hours,3.5 to 3.0
+Government,Internet,Home,6 to 8 hours,1 to 2 hours,A,A,81-100%,Less than 5 hours,3.5 to 3.0
+Government,All of them,Home,6 to 8 hours,3 to 5 hours,A,B,61-80%,Less than 5 hours,3.5 to 3.0
+Government,Notes prepare by yourself from lecture,Library,6 to 8 hours,1 to 2 hours,A,B,81-100%,11 to 15 hours,2.9 to 2.5
+Semi-Government,Notes prepare by yourself from lecture,Library,6 to 8 hours,1 to 2 hours,A1,B,81-100%,More than 15 hours,3.5 to 3.0
+Government,Internet,Library,6 to 8 hours,3 to 5 hours,A,A,81-100%,6 to 10 hours,4.0 to 3.6
+Government,All of them,Library,3 to 5 hours,1 to 2 hours,A,A,81-100%,11 to 15 hours,3.5 to 3.0
+Government,All of them,Home,6 to 8 hours,3 to 5 hours,A1,A,81-100%,11 to 15 hours,4.0 to 3.6
+Government,Internet,Hostel/Friend's Place,6 to 8 hours,1 to 2 hours,A1,A,41-60%,Less than 5 hours,2.9 to 2.5
+Government,Internet,Home,6 to 8 hours,1 to 2 hours,A,B,81-100%,More than 15 hours,4.0 to 3.6
+Government,Books,Home,9 to 11 hours,Less-than 1 hour,B,B,81-100%,Less than 5 hours,3.5 to 3.0
+Private,All of them,Home,6 to 8 hours,3 to 5 hours,A1,A,81-100%,11 to 15 hours,3.5 to 3.0
+Government,All of them,Library,3 to 5 hours,3 to 5 hours,A1,A,81-100%,Less than 5 hours,3.5 to 3.0
+Government,Research Paper,Lab,6 to 8 hours,1 to 2 hours,A1,A,81-100%,More than 15 hours,4.0 to 3.6
+Private,Internet,Home,9 to 11 hours,6 to 9 hours,A,A,81-100%,6 to 10 hours,4.0 to 3.6
+Private,Notes prepare by yourself from lecture,Home,3 to 5 hours,1 to 2 hours,A1,A,61-80%,Less than 5 hours,2.9 to 2.5
+Government,All of them,Library,6 to 8 hours,1 to 2 hours,A1,B,81-100%,Less than 5 hours,3.5 to 3.0
+Private,All of them,Home,3 to 5 hours,3 to 5 hours,A,A,61-80%,6 to 10 hours,3.5 to 3.0
+Government,All of them,Library,3 to 5 hours,1 to 2 hours,A1,A,61-80%,6 to 10 hours,2.9 to 2.5
+Government,Internet,Home,6 to 8 hours,6 to 9 hours,A,A,81-100%,6 to 10 hours,3.5 to 3.0
+Private,All of them,Home,6 to 8 hours,3 to 5 hours,A1,A,41-60%,Less than 5 hours,3.5 to 3.0
+Government,Books,Library,6 to 8 hours,Less-than 1 hour,A1,A,81-100%,6 to 10 hours,4.0 to 3.6
+Government,Internet,Home,6 to 8 hours,1 to 2 hours,A1,A,81-100%,6 to 10 hours,4.0 to 3.6
+Private,Notes prepare by yourself from lecture,Home,6 to 8 hours,1 to 2 hours,A,A,81-100%,Less than 5 hours,3.5 to 3.0
+Government,All of them,Lab,6 to 8 hours,1 to 2 hours,A1,A,81-100%,11 to 15 hours,4.0 to 3.6
+Government,All of them,Home,3 to 5 hours,1 to 2 hours,A,A,81-100%,Less than 5 hours,4.0 to 3.6
+Government,Internet,Home,9 to 11 hours,3 to 5 hours,A1,A,81-100%,Less than 5 hours,3.5 to 3.0
+Government,All of them,Home,3 to 5 hours,1 to 2 hours,A1,A,81-100%,More than 15 hours,4.0 to 3.6
+Government,All of them,Home,6 to 8 hours,1 to 2 hours,A1,A,81-100%,11 to 15 hours,4.0 to 3.6
+Government,Internet,Home,6 to 8 hours,6 to 9 hours,A,A,61-80%,6 to 10 hours,3.5 to 3.0
+Government,Internet,Home,3 to 5 hours,3 to 5 hours,A,A,61-80%,Less than 5 hours,2.9 to 2.5
+Private,Internet,Home,6 to 8 hours,Less-than 1 hour,A,A,21-40%,6 to 10 hours,3.5 to 3.0
+Private,All of them,Library,6 to 8 hours,1 to 2 hours,A,A,81-100%,More than 15 hours,3.5 to 3.0
+Government,All of them,Home,6 to 8 hours,3 to 5 hours,B,C,81-100%,11 to 15 hours,4.0 to 3.6
+Private,Internet,Library,6 to 8 hours,1 to 2 hours,A1,A,81-100%,11 to 15 hours,3.5 to 3.0
+Private,All of them,Library,3 to 5 hours,Less-than 1 hour,A,A,81-100%,More than 15 hours,3.5 to 3.0
+Government,Books,Library,3 to 5 hours,1 to 2 hours,A1,A1,81-100%,More than 15 hours,3.5 to 3.0
+Government,All of them,Home,6 to 8 hours,3 to 5 hours,A1,A,81-100%,6 to 10 hours,4.0 to 3.6
+Government,Internet,Lab,3 to 5 hours,3 to 5 hours,A1,A,61-80%,More than 15 hours,3.5 to 3.0
+Private,All of them,Home,6 to 8 hours,3 to 5 hours,A1,A,81-100%,6 to 10 hours,4.0 to 3.6
+Government,Internet,Library,6 to 8 hours,3 to 5 hours,A,B,61-80%,6 to 10 hours,3.5 to 3.0
+Private,Notes prepare by yourself from lecture,Hostel/Friend's Place,6 to 8 hours,1 to 2 hours,A,A,61-80%,11 to 15 hours,3.5 to 3.0
+Government,All of them,Home,3 to 5 hours,Less-than 1 hour,A1,A,61-80%,6 to 10 hours,3.5 to 3.0
+Private,Internet,Home,6 to 8 hours,1 to 2 hours,A1,A,81-100%,Less than 5 hours,3.5 to 3.0
+Government,Books,Library,6 to 8 hours,3 to 5 hours,A1,A,61-80%,6 to 10 hours,3.5 to 3.0
+Government,Notes given by teacher,Library,9 to 11 hours,3 to 5 hours,A,A,61-80%,Less than 5 hours,2.9 to 2.5
+Private,Notes given by teacher,Home,6 to 8 hours,1 to 2 hours,A1,A,61-80%,Less than 5 hours,3.5 to 3.0
+Government,All of them,Home,3 to 5 hours,3 to 5 hours,A1,A,61-80%,Less than 5 hours,3.5 to 3.0
+Semi-Government,Notes prepare by yourself from lecture,Home,6 to 8 hours,3 to 5 hours,A1,A,81-100%,Less than 5 hours,4.0 to 3.6
+Government,All of them,Home,3 to 5 hours,3 to 5 hours,B,A,61-80%,6 to 10 hours,3.5 to 3.0
+Government,Notes prepare by yourself from lecture,Library,6 to 8 hours,3 to 5 hours,A1,A,81-100%,Less than 5 hours,4.0 to 3.6
+Semi-Government,Notes given by teacher,Hostel/Friend's Place,9 to 11 hours,3 to 5 hours,A,A,61-80%,6 to 10 hours,4.0 to 3.6
+Semi-Government,All of them,Home,6 to 8 hours,6 to 9 hours,A1,A,81-100%,6 to 10 hours,3.5 to 3.0
+Private,All of them,Home,6 to 8 hours,3 to 5 hours,A,A,81-100%,Less than 5 hours,3.5 to 3.0
+Semi-Government,All of them,Home,6 to 8 hours,3 to 5 hours,A1,A1,61-80%,Less than 5 hours,3.5 to 3.0
+Private,Internet,Home,6 to 8 hours,6 to 9 hours,A,A,61-80%,Less than 5 hours,4.0 to 3.6
+Government,All of them,Home,9 to 11 hours,3 to 5 hours,A1,A,81-100%,Less than 5 hours,4.0 to 3.6
+Government,Notes given by teacher,Home,9 to 11 hours,3 to 5 hours,A,B,41-60%,Less than 5 hours,3.5 to 3.0
+Private,Notes prepare by yourself from lecture,Home,3 to 5 hours,1 to 2 hours,A1,A,61-80%,Less than 5 hours,3.5 to 3.0
+Government,All of them,Home,6 to 8 hours,less-than 1 hour,A,A,61 to 80%,11 to 15 hours,4.0 to 3.6
+Private,All of them,Home,6 to 8 hours,3 to 5 hours,A1,A1,21 to 40%,Less than 5 hours,3.5 to 3.0
+Semi-Government,All of them,Home,6 to 8 hours,less-than 1 hour,A,A,81 to 100%,Less than 5 hours,4.0 to 3.6
+Government,All of them,Home,6 to 8 hours,1 to 2 hours,A1,A,81 to 100%,Less than 5 hours,3.5 to 3.0
+Government,All of them,Home,6 to 8 hours,1 to 2 hours,A,B,61 to 80%,11 to 15 hours,2.9 to 2.5
+Government,Notes given by teacher,Home,6 to 8 hours,3 to 5 hours,A,A,61 to 80%,Less than 5 hours,Less than 2.5
+Private,Notes prepare by yourself from lecture,Home,6 to 8 hours,3 to 5 hours,A1,A,81 to 100%,Less than 5 hours,Less than 2.5
+Private,Internet,Home,9 to 11 hours,3 to 5 hours,A,A1,61 to 80%,Less than 5 hours,Less than 2.5
+Government,Internet,Home,6 to 8 hours,1 to 2 hours,A,A,81 to 100%,6 to 10 hours,3.5 to 3.0
+Government,All of them,Library,6 to 8 hours,1 to 2 hours,B,A,81 to 100%,6 to 10 hours,3.5 to 3.0
+Private,Internet,Home,6 to 8 hours,1 to 2 hours,A,A,81 to 100%,11 to 15 hours,Less than 2.5
+Government,All of them,Home,3 to 5 hours,1 to 2 hours,A1,A,81 to 100%,11 to 15 hours,4.0 to 3.6
+Government,Notes prepare by yourself from lecture,Hostel/friend's place,12 to 14 hours,1 to 2 hours,B,A1,81 to 100%,Less than 5 hours,3.5 to 3.0
+Government,Notes prepare by yourself from lecture,Home,6 to 8 hours,3 to 5 hours,A,A,81 to 100%,Less than 5 hours,Less than 2.5
+Government,Notes prepare by yourself from lecture,Home,6 to 8 hours,less-than 1 hour,A,B,81 to 100%,6 to 10 hours,Less than 2.5
+Private,Internet,Home,6 to 8 hours,less-than 1 hour,B,B,61 to 80%,Less than 5 hours,2.9 to 2.5
+Private,All of them,Home,6 to 8 hours,less-than 1 hour,A,A,81 to 100%,More than 15 hours,3.5 to 3.0
+Private,Notes prepare by yourself from lecture,Hostel/friend's place,6 to 8 hours,1 to 2 hours,A,A,61 to 80%,6 to 10 hours,3.5 to 3.0
+Private,Notes prepare by yourself from lecture,Home,9 to 11 hours,3 to 5 hours,A1,A1,41 to 60%,Less than 5 hours,2.9 to 2.5
+Private,All of them,Any other place,6 to 8 hours,less-than 1 hour,A,A,81 to 100%,Less than 5 hours,Less than 2.5
+Semi-Government,Internet,Hostel/friend's place,3 to 5 hours,less-than 1 hour,A1,A,81 to 100%,Less than 5 hours,4.0 to 3.6
+Government,All of them,Hostel/friend's place,3 to 5 hours,1 to 2 hours,A,B,81 to 100%,11 to 15 hours,3.5 to 3.0
+Semi-Government,Internet,Library,6 to 8 hours,1 to 2 hours,A1,B,61 to 80%,11 to 15 hours,3.5 to 3.0
+Private,Internet,Home,6 to 8 hours,3 to 5 hours,A1,A1,61 to 80%,6 to 10 hours,Less than 2.5
+Private,Notes given by teacher,Hostel/friend's place,12 to 14 hours,6 to 9 hours,A1,A1,81 to 100%,Less than 5 hours,Less than 2.5
+Private,Notes given by teacher,Library,9 to 11 hours,3 to 5 hours,A1,A,81 to 100%,6 to 10 hours,3.5 to 3.0
+Private,Internet,Home,6 to 8 hours,less-than 1 hour,A1,A,81 to 100%,6 to 10 hours,3.5 to 3.0
+Private,Notes prepare by yourself from lecture,Hostel/friend's place,3 to 5 hours,3 to 5 hours,A1,A,61 to 80%,11 to 15 hours,4.0 to 3.6
+Government,All of them,Home,3 to 5 hours,1 to 2 hours,A1,A,81 to 100%,11 to 15 hours,4.0 to 3.6
+Private,Internet,Home,9 to 11 hours,1 to 2 hours,A1,a,81 to 100%,Less than 5 hours,3.5 to 3.0
+Government,Notes prepare by yourself from lecture,Home,9 to 11 hours,1 to 2 hours,A,B,61 to 80%,6 to 10 hours,4.0 to 3.6
+Private,All of them,Home,6 to 8 hours,3 to 5 hours,A1,A,81 to 100%,6 to 10 hours,4.0 to 3.6
+Private,All of them,Hostel/friend's place,3 to 5 hours,3 to 5 hours,B,A1,61 to 80%,Less than 5 hours,Less than 2.5
+Government,Internet,Home,12 to 14 hours,3 to 5 hours,A,A,61 to 80%,More than 15 hours,4.0 to 3.6
+Private,Notes prepare by yourself from lecture,Home,6 to 8 hours,1 to 2 hours,A,A,81 to 100%,11 to 15 hours,3.5 to 3.0
+Private,Internet,Hostel/friend's place,12 to 14 hours,3 to 5 hours,A,A,61 to 80%,More than 15 hours,Less than 2.5
+Private,All of them,Hostel/friend's place,6 to 8 hours,3 to 5 hours,A1,A,61 to 80%,Less than 5 hours,Less than 2.5
+Government,All of them,Hostel/friend's place,6 to 8 hours,3 to 5 hours,B,B,81 to 100%,6 to 10 hours,Less than 2.5
+Private,All of them,Home,6 to 8 hours,6 to 9 hours,A1,A,81 to 100%,11 to 15 hours,4.0 to 3.6
+Government,Notes given by teacher,Home,6 to 8 hours,6 to 9 hours,B,A,61 to 80%,6 to 10 hours,3.5 to 3.0
+Government,Internet,Home,6 to 8 hours,3 to 5 hours,A,A,81 to 100%,6 to 10 hours,3.5 to 3.0
+Government,All of them,Home,3 to 5 hours,less-than 1 hour,A1,A,61 to 80%,Less than 5 hours,3.5 to 3.0
+Government,All of them,Home,6 to 8 hours,1 to 2 hours,A1 ,A,81 to 100%,6 to 10 hours,3.5 to 3.0
+Government,All of them,Home,6 to 8 hours,1 to 2 hours,A1,A,81 to 100%,6 to 10 hours,4.0 to 3.6
+Private,All of them,Library,6 to 8 hours,less-than 1 hour,A,A,81 to 100%,6 to 10 hours,3.5 to 3.0
+Private,Internet,Home,6 to 8 hours,6 to 9 hours,A,A,81 to 100%,Less than 5 hours,4.0 to 3.6
+Government,Internet,Home,3 to 5 hours,6 to 9 hours,A,A,61 to 80%,Less than 5 hours,3.5 to 3.0
+Government,Internet,Home,6 to 8 hours,1 to 2 hours,A1,A,81 to 100%,Less than 5 hours,3.5 to 3.0
+Private,All of them,Home,3 to 5 hours,6 to 9 hours,A,A,81 to 100%,Less than 5 hours,Less than 2.5
+Government,Internet,Home,6 to 8 hours,3 to 5 hours,A,A,61 to 80%,More than 15 hours,4 to 3.6
+Private,Notes given by teacher,Hostel/Friend's Place,6 to 8 hours,Less-than 1 hour,A,A,61 to 80%,6 to 10 hours,2.9 to 2.5
+Private,Notes given by teacher,Home,12 to 14 hours,Less-than 1 hour,A,A1,81 to 100%,More than 15 hours,4 to 3.6
+Government,Books,Home,6 to 8 hours,1 to 2 hours,A1,A,61 to 80%,6 to 10 hours,3.5 to 3.0
+Government,All of them,Home,6 to 8 hours,Less-than 1 hour,A1,A,81 to 100%,6 to 10 hours,
+Private,Internet,Home,3 to 5 hours,Less-than 1 hour,A,A1,61 to 80%,6 to 10 hours,2.9 to 2.5
+Government,All of them,home,6 to 8 hours,3 to 5 hours,A,B,81 to 100%,More than 15 hours,
+Government,Notes prepare by yourself from lecture,Home,6 to 8 hours,3 to 5 hours,A,A,81 to 100%,Less than 5 hours,4 to 3.6
+Government,All of them,home,3 to 5 hours,1 to 2 hours,A,A,81 to 100%,Less than 5 hours,4 to 3.6
+Private,Books,home,6 to 8 hours,1 to 2 hours,A1,A1,61 to 80%,More than 15 hours,
+Private,Internet,home,6 to 8 hours,1 to 2 hours,A,A,81 to 100%,6 to 10 hours,2.9 to 2.5
+Private,Books,library,6 to 8 hours,1 to 2 hours,A1,A,81 to 100%,Less than 5 hours,2.9 to 2.5
+Government,Internet,home,6 to 8 hours,3 to 5 hours,A1,A1,81 to 100%,Less than 5 hours,4 to 3.6
+Government,All of them,home,6 to 8 hours,1 to 2 hours,A,B,81 to 100%,Less than 5 hours,2.9 to 2.5
+Government,All of them,home,6 to 8 hours,3 to 5 hours,A,A,81 to 100%,Less than 5 hours,3.5 to 3.0
+Government,Books,home,9 to 11 hours,1 to 2 hours,A,A,81 to 100%,Less than 5 hours,
+Government,All of them,home,6 to 8 hours,1 to 2 hours,A1,A,61 to 80%,More than 15 hours,
+Government,Internet,library,6 to 8 hours,3 to 5 hours,A,B,81 to 100%,Less than 5 hours,3.5 to 3.0
+Private,Notes given by teacher,library,6 to 8 hours,1 to 2 hours,A,A,81 to 100%,Less than 5 hours,3.5 to 3.0
+Government,Books,library,6 to 8 hours,1 to 2 hours,A1,A,81 to 100%,Less than 5 hours,2.9 to 2.5
+Government,Internet,home,6 to 8 hours,1 to 2 hours,A,B,61 to 80%,Less than 5 hours,2.9 to 2.5
+Private,Notes prepare by yourself from lecture,home,6 to 8 hours,3 to 5 hours,A,A1,61 to 80%,11 to 15 hours,4.0 to 3.6
+Government,All of them,home,9 to 11 hours,3 to 5 hours,A,A,61 to 80%,More than 15 hours,3.5 to 3.0
+Private,Notes prepare by yourself from lecture,Hostel/Friend's Place,6 to 8 hours,1 to 2 hours,A1,A,81 to 100%,Less than 5 hours,4.0 to 3.6
+Semi-Government,Books,Home,3 to 5 hours,6 to 9 hours,A1,A,81 to 100%,6 to 10 hours,4.0 to 3.6
+Government,Notes prepare by yourself from lecture,home,6 to 8 hours,6 to 9 hours,A1,A,61 to 80%,Less than 5 hours,4.0 to 3.6
+Government,Notes prepare by yourself from lecture,home,6 to 8 hours,1 to 2 hours,A,A,81 to 100%,11 to 15 hours,4.0 to 3.6
+Private,Notes prepare by yourself from lecture,Any other place,6 to 8 hours,6 to 9 hours,A,B,81 to 100%,Less than 5 hours,4.0 to 3.6
+Private,Notes given by teacher,home,6 to 8 hours,3 to 5 hours,A1 ,B,81 to 100%,Less than 5 hours,2.9 to 2.5
+Private,Notes prepare by yourself from lecture,Any other place,6 to 8 hours,6 to 9 hours,A ,B,81 to 100%,Less than 5 hours,4.0 to 3.6
+Private,Internet,home,3 to 5 hours,less-than 1 hour,A,B,61 to 80%,Less than 5 hours,3.5 to 3.0
+Private,Internet,Hostel/Friend's Place,3 to 5 hours,less-than 1 hour,A,A,81 to 100%,Less than 5 hours,3.5 to 3.0
+Government,Notes prepare by yourself from lecture,Home,3 to 5 hours,1 to 2 hours,A,A1,81 to 100%,More than 15 hours,4.0 to 3.6
+Private,All of them,home,6 to 8 hours,1 to 2 hours,A1,B,61 to 80%,Less than 5 hours,
+Government,Notes prepare by yourself from lecture,home,3 to 5 hours,1 to 2 hours,A,A,81 to 100%,Less than 5 hours,4.0 to 3.6
+Government,Internet,home,3 to 5 hours,3 to 5 hours,A,A1,81 to 100%,Less than 5 hours,4.0 to 3.6
+Government,All of them,library,3 to 5 hours,1 to 2 hours,B,A,81 to 100%,6 to 10 hours,
+Private,All of them,home,6 to 8 hours,3 to 5 hours,A1,A1,61 to 80%,Less than 5 hours,3.5 to 3.0
+Semi-Government,Internet,home,6 to 8 hours,6 to 9 hours,A1,A,81 to 100%,6 to 10 hours,2.9 to 2.5
+Private,Books,home,6 to 8 hours,3 to 5 hours,A,A,81 to 100%,6 to 10 hours,3.5 to 3.0
+Government,All of them,Hostel/friend's place,6 to 8 hours,1 to 2 hours,A,A1,81 to 100%,11 to 15 hours,
+Private,Internet,home,3 to 5 hours,6 to 9 hours,A1,A,81 to 100%,Less than 5 hours,
+Private,Internet,Hostel/friend's place,3 to 5 hours,1 to 2 hours,A1,A1,61 to 80%,6 to 10 hours,3.5 to 3.0
+Government,Internet,Hostel/friend's place,9 to 11 hours,3 to 5 hours,A1,A1,81 to 100%,Less than 5 hours,3.5 to 3.0
+Private,Books,home,6 to 8 hours,less-than 1 hour,A,A,61 to 80%,6 to 10 hours,3.5 to 3.0
+Private,All of them,home,6 to 8 hours,1 to 2 hours,A,A,61 to 80%,Less than 5 hours,3.5 to 3.0
+Private,Notes given by teacher,library,9 to 11 hours,less-than 1 hour,A,A,81 to 100%,Less than 5 hours,
+Government,All of them,home,6 to 8 hours,1 to 2 hours,A1,A,81 to 100%,6 to 10 hours,4.0 to 3.6
+Semi-Government,Internet,home,6 to 8 hours,1 to 2 hours,A1,B,81 to 100%,Less than 5 hours,
+Government,Internet,home,6 to 8 hours,3 to 5 hours,A,A,61 to 80%,More than 15 hours,4.0 to 3.6
+Private,Notes given by teacher,home,12 to 14 hours,less-than 1 hour,A,A1,81 to 100%,More than 15 hours,4.0 to 3.6
+Government,Notes prepare by yourself from lecture,Home,6 to 8 hours,1 to 2 hours,A1 ,A,61 to 80%,6 to 10 hours,3.5 to 3.0
+Private,All of them,home,9 to 11 hours,3 to 5 hours,A,A,61 to 80%,6 to 10 hours,3.5 to 3.0
+Government,All of them,home,6 to 8 hours,1 to 2 hours,A ,B,61 to 80%,Less than 5 hours,4.0 to 3.6
+Government,All of them,home ,6 to 8 hours,1 to 2 hours,A,A1,81 to 100%,Less than 5 hours,4.0 to 3.6
+Government,All of them,Library,3 to 5 hours,less-than 1 hour,A1,A,81 to 100%,11 to 15 hours,
+Government,All of them,home,3 to 5 hours,less-than 1 hour,B,B,81 to 100%,Less than 5 hours,
+Private,All of them,home,6 to 8 hours,3 to 5 hours,A,A,81 to 100%,More than 15 hours,3.5 to 3.0
+Semi-Government,Internet,home,3 to 5 hours,1 to 2 hours,A1 ,A,81 to 100%,Less than 5 hours,3.5 to 3.0
+Government,All of them,library,6 to 8 hours,1 to 2 hours,A1,A,81 to 100%,6 to 10 hours,3.5 to 3.0
+Private,Books,library,3 to 5 hours,3 to 5 hours,A,A,61 to 80%,Less than 5 hours,3.5 to 3.0
+Private,All of them,Library,9 to 11 hours,1 to 2 hours,A!,A,81 to 100%,6 to 10 hours,Less than 2.5
+Private,Notes given by teacher,home,6 to 8 hours,6 to 9 hours,B,A,61 to 80%,Less than 5 hours,
+Private,Notes prepare by yourself from lecture,home,12 to 14 hours,6 to 9 hours,A1,A,81 to 100%,Less than 5 hours,4.0 to 3.6
+Government,All of them,Library,6 to 8 hours,1 to 2 hours,A1,A,81 to 100%,6 to 10 hours,3.5 to 3.0
+Semi-Government,Notes prepare by yourself from lecture,library,6 to 8 hours,less-than 1 hour,A1 ,A1,61 to 80%,6 to 10 hours,
+Government,Internet,home,6 to 8 hours,1 to 2 hours,A,A,81 to 100%,Less than 5 hours,3.5 to 3.0
+Semi-Government,All of them,home,6 to 8 hours,1 to 2 hours,A,A,81 to 100%,Less than 5 hours,2.9 to 2.5
+Private,Notes given by teacher,home,6 to 8 hours,less-than 1 hour,A,B,61 to 80%,Less than 5 hours,2.9 to 2.5
+Private,Internet,Library,6 to 8 hours,less-than 1 hour,A,A,81 to 100%,Less than 5 hours,
+Private,All of them,home,3 to 5 hours,less-than 1 hour,A,A,81 to 100%,Less than 5 hours,
+Private,Internet,home,3 to 5 hours,6 to 9 hours,A1,A,61 to 80%,Less than 5 hours,
+Private,Notes prepare by yourself from lecture,home,6 to 8 hours,6 to 9 hours,A1,A,61 to 80%,Less than 5 hours,4.0 to 3.6
+Government,All of them,home,6 to 8 hours,1 to 2 hours,A1 ,A,81 to 100%,11 to 15 hours,4.0 to 3.6
+Government,Internet,home,6 to 8 hours,6 to 9 hours,A,A,61 to 80%,Less than 5 hours,4.0 to 3.6
+Government,Notes prepare by yourself from lecture,home,6 to 8 hours,3 to 5 hours,A1,A1,81 to 100%,11 to 15 hours,4.0 to 3.6
+Government,Internet,home,6 to 8 hours,3 to 5 hours,A1,A,81 to 100%,Less than 5 hours,4.0 to 3.6
+Government,Internet,home,6 to 8 hours,1 to 2 hours,A,A,81 to 100%,6 to 10 hours,4.0 to 3.6
+Government,Internet,home,6 to 8 hours,1 to 2 hours,A1,B,81 to 100%,Less than 5 hours,4.0 to 3.6
+Government,Notes prepare by yourself from lecture,home,12 to 14 hours,3 to 5 hours,A,A,81 to 100%,Less than 5 hours,4.0 to 3.6
+Private,Internet,home,6 to 8 hours,1 to 2 hours,A,B,81 to 100%,Less than 5 hours,4.0 to 3.6
+Government,All of them,library,9 to 11 hours,1 to 2 hours,A,A1,81 to 100%,11 to 15 hours,3.5 to 3.0
+Government,All of them,home,6 to 8 hours,1 to 2 hours,A,A,81 to 100%,6 to 10 hours,4.0 to 3.6
+Private,All of them,home,3 to 5 hours,3 to 5 hours,A,A,61 to 80%,Less than 5 hours,4.0 to 3.6
+Government,Notes prepare by yourself from lecture,home,9 to 11 hours,1 to 2 hours,A1 ,A,81 to 100%,11 to 15 hours,4.0 to 3.6
+Private,Internet,home,6 to 8 hours,1 to 2 hours,A,A,81 to 100%,More than 15 hours,4.0 to 3.6
+Semi-Government,Notes given by teacher,Hostel/Friend's Place,6 to 8 hours,1 to 2 hours,A1,A,61 to 80%,6 to 10 hours,2.9 to 2.5
+Private,Internet,home,6 to 8 hours,less-than 1 hour,A1,A,61 to 80%,Less than 5 hours,4.0 to 3.6
+Government,Notes given by teacher,Library,3 to 5 hours,less-than 1 hour,A1,A,61 to 80%,6 to 10 hours,2.9 to 2.5
+Private,Books,home,6 to 8 hours,1 to 2 hours,A,A1,61 to 80%,Less than 5 hours,Less than 2.5
+Government,Internet,home,12 to 14 hours,3 to 5 hours,A1,A1,61 to 80%,Less than 5 hours,2.9 to 2.5
+Government,All of them,home,6 to 8 hours,less-than 1 hour,A,A,61 to 80%,6 to 10 hours,4.0 to 3.6
+Private,All of them,home,6 to 8 hours,1 to 2 hours,A,A,61 to 80%,More than 15 hours,4.0 to 3.6
+Semi-Government,All of them,home,6 to 8 hours,1 to 2 hours,A1,A,61 to 80%,Less than 5 hours,3.5 to 3.0
+Private,Books,library,3 to 5 hours,1 to 2 hours,A1,A,61 to 80%,Less than 5 hours,3.5 to 3.0
+Private,All of them,home,3 to 5 hours,less-than 1 hour,A1 ,A,81 to 100%,6 to 10 hours,3.5 to 3.0
+Private,All of them,home,6 to 8 hours,1 to 2 hours,A,A,81 to 100%,Less than 5 hours,4.0 to 3.6
+Private,All of them,home,6 to 8 hours,1 to 2 hours,A,A,81 to 100%,Less than 5 hours,4.0 to 3.6
+Government,Notes prepare by yourself from lecture,home,3 to 5 hours,less-than 1 hour,A1 ,A,61 to 80%,Less than 5 hours,2.9 to 2.5
+Private,All of them,Any other place,6 to 8 hours,1 to 2 hours, A1,A1,81 to 100%,Less than 5 hours,4.0 to 3.6
+Government,Books,home,6 to 8 hours,less-than 1 hour,A,A,61 to 80%,6 to 10 hours,2.9 to 2.5
+Private,Internet,Hostel/Friend's Place,6 to 8 hours,3 to 5 hours,A,A,61 to 80%,6 to 10 hours,2.9 to 2.5
+Private,Internet,home,6 to 8 hours,less-than 1 hour,A,A,61 to 80%,Less than 5 hours,3.5 to 3.0
+Government,All of them,library,6 to 8 hours,3 to 5 hours,A1,A1,81 to 100%,More than 15 hours,3.5 to 3.0
+Semi-Government,Internet,home,6 to 8 hours,less-than 1 hour,A1 ,A,81 to 100%,Less than 5 hours,4.0 to 3.6
+Private,Notes prepare by yourself from lecture,library,3 to 5 hours,1 to 2 hours,A1,A1,61 to 80%,11 to 15 hours,3.5 to 3.0
+Government,Books,Hostel/Friend's Place,6 to 8 hours,1 to 2 hours,A1 ,A,61 to 80%,6 to 10 hours,3.5 to 3.0
+Government,Notes prepare by yourself from lecture,home,6 to 8 hours,3 to 5 hours,A1 ,A,81 to 100%,6 to 10 hours,4.0 to 3.6
+Government,All of them,library,6 to 8 hours,6 to 9 hours,A,A1,81 to 100%,Less than 5 hours,3.5 to 3.0
+Government,Notes prepare by yourself from lecture,Hostel/Friend's Place,6 to 8 hours,less-than 1 hour,A,A,61 to 80%,Less than 5 hours,4.0 to 3.6
+Government,Books,Hostel/Friend's Place,6 to 8 hours,1 to 2 hours,A1,A,81 to 100%,6 to 10 hours,3.5 to 3.0
+Private,Notes prepare by yourself from lecture,home,9 to 11 hours,1 to 2 hours,A1 ,A,81 to 100%,Less than 5 hours,4.0 to 3.6
+Private,Books,home,6 to 8 hours,less-than 1 hour,A,A,61 to 80%,6 to 10 hours,3.5 to 3.0
+Semi-Government,Notes prepare by yourself from lecture,home,6 to 8 hours,6 to 9 hours,A1,A,81 to 100%,11 to 15 hours,4.0 to 3.6
+Government,Internet,library,3 to 5 hours,1 to 2 hours,A1,A,81 to 100%,Less than 5 hours,4.0 to 3.6
+Private,Internet,home,3 to 5 hours,1 to 2 hours,A1,A,61 to 80%,Less than 5 hours,3.5 to 3.0
+Government,Internet,Hostel/Friend's Place,3 to 5 hours,less-than 1 hour,A1,B,81 to 100%,More than 15 hours,3.5 to 3.0
+Private,Internet,Hostel/Friend's Place,6 to 8 hours,3 to 5 hours,A,B,41 to 60%,6 to 10 hours,2.9 to 2.5
+Semi-Government,Internet,home,6 to 8 hours,6 to 9 hours,A1,A,61 to 80%,6 to 10 hours,3.5 to 3.0
+Semi-Government,Notes given by teacher,home,6 to 8 hours,1 to 2 hours,A1 ,B,81 to 100%,Less than 5 hours,4.0 to 3.6
+Government,All of them,home,6 to 8 hours,6 to 9 hours,A1,A,61 to 80%,Less than 5 hours,4.0 to 3.6
+Semi-Government,Notes prepare by yourself from lecture,home,3 to 5 hours,1 to 2 hours,A,A,81 to 100%,6 to 10 hours,4.0 to 3.6
+Private,Notes prepare by yourself from lecture,home,6 to 8 hours,3 to 5 hours,A1,A1,61 to 80%,6 to 10 hours,3.5 to 3.0
+Private,Notes given by teacher,home,3 to 5 hours,3 to 5 hours,A1,A,61 to 80%,Less than 5 hours,4.0 to 3.6
+Private,Internet,home,6 to 8 hours,3 to 5 hours,A1,A,61 to 80%,Less than 5 hours,4.0 to 3.6
+Private,All of them,home,6 to 8 hours,3 to 5 hours,A,A,61 to 80%,Less than 5 hours,2.9 to 2.5
+Private,All of them,home,6 to 8 hours,less-than 1 hour,A,A,61 to 80%,6 to 10 hours,3.5 to 3.0
+Government,All of them,Hostel/Friend's Place,6 to 8 hours,1 to 2 hours,A,A,61 to 80%,Less than 5 hours,3.5 to 3.0
+Government,All of them,Any other place,12 to 14 hours,6 to 9 hours,A1,A,0 t0 20,Less than 5 hours,2.9 to 2.5
+Government,Internet,home,12 to 14 hours,1 to 2 hours,B,B,61 to 80%,Less than 5 hours,2.9 to 2.5
+Private,All of them,home,9 to 11 hours,3 to 5 hours,A,B,41 to 60%,Less than 5 hours,2.9 to 2.5
+Government,Internet,Hostel/Friend's Place,9 to 11 hours,3 to 5 hours,A,A,61 to 80%,6 to 10 hours,2.9 to 2.5
+Semi-Government,All of them,home,9 to 11 hours,1 to 2 hours,A1,A1,61 to 80%,6 to 10 hours,3.5 to 3.0
+Government,Internet,Any other place,6 to 8 hours,1 to 2 hours,A,A,61 to 80%,Less than 5 hours,Less than 2.5
+Government,Notes given by teacher,home,6 to 8 hours,3 to 5 hours,A1,A,61 to 80%,Less than 5 hours,3.5 to 3.0
+Government,Internet,home,3 to 5 hours,6 to 9 hours,A,A,61 to 80%,11 to 15 hours,4.0 to 3.6
+Private,Books,home,6 to 8 hours,6 to 9 hours,A1 ,A,61 to 80%,Less than 5 hours,3.5 to 3.0
+Private,Internet,home,6 to 8 hours,6 to 9 hours,B,B,41 to 60%,Less than 5 hours,Less than 2.5
+Private,All of them,home,6 to 8 hours,1 to 2 hours,A1 ,A,81 to 100%,6 to 10 hours,4.0 to 3.6
+Private,Internet,home,6 to 8 hours,1 to 2 hours,A,A,81 to 100%,6 to 10 hours,3.5 to 3.0
+Private,Internet,home,6 to 8 hours,6 to 9 hours,A,B,21 to 40%,6 to 10 hours,Less than 2.5
+Private,Notes given by teacher,Hostel/Friend's Place,6 to 8 hours,less-than 1 hour,A,A,61 to 80%,6 to 10 hours,2.9 to 2.5
+Private,Books,home,6 to 8 hours,1 to 2 hours,A1,A,81 to 100%,11 to 15 hours,Less than 2.5
+Government,Notes prepare by yourself from lecture,Library,6 to 8 hours,1 to 2 hours,A1,A,81 to 100%,Less than 5 hours,2.9 to 2.5
+Government,Internet,home,6 to 8 hours,1 to 2 hours,A,A,81 to 100%,6 to 10 hours,3.5 to 3.0
+Private,Books,home,3 to 5 hours,less-than 1 hour,A1,A,81 to 100%,Less than 5 hours,3.5 to 3.0
+Government,Internet,home,3 to 5 hours,6 to 9 hours,A1,B,61 to 80%,Less than 5 hours,2.9 to 2.5
+Government,All of them,home,6 to 8 hours,less-than 1 hour,A,A,81 to 100%,11 to 15 hours,4.0 to 3.6
+Semi-Government,All of them,home,6 to 8 hours,1 to 2 hours,A,A,81 to 100%,11 to 15 hours,3.5 to 3.0
+Private,All of them,home,6 to 8 hours,3 to 5 hours,A,A,61 to 80%,Less than 5 hours,3.5 to 3.0
+Government,Internet,Library,6 to 8 hours,3 to 5 hours,B,B,81 to 100%,11 to 15 hours,3.5 to 3.0
+Private,Internet,Library,6 to 8 hours,1 to 2 hours,A,A1,61 to 80%,Less than 5 hours,2.9 to 2.5
+Government,Internet,Library,6 to 8 hours,3 to 5 hours,A,A,81 to 100%,Less than 5 hours,2.9 to 2.5
+Private,All of them,Hostel/Friend's Place,3 to 5 hours,3 to 5 hours, A1,A,81 to 100%,11 to 15 hours,3.5 to 3.0
+Semi-Government,Internet,Library,6 to 8 hours,3 to 5 hours,A1,A,81 to 100%,Less than 5 hours,2.9 to 2.5
+Government,Internet,Library,9 to 11 hours,6 to 9 hours,A1,A,61 to 80%,6 to 10 hours,3.5 to 3.0
+Private,Notes prepare by yourself from lecture,Library,12 to 14 hours,3 to 5 hours,A,A,61 to 80%,11 to 15 hours,3.5 to 3.0
+Private,Books,Library,6 to 8 hours,3 to 5 hours,A1,A,81 to 100%,6 to 10 hours,3.5 to 3.0
+Semi-Government,All of them,home,6 to 8 hours,1 to 2 hours,A1 ,A1,81 to 100%,Less than 5 hours,3.5 to 3.0
+Semi-Government,All of them,Library,6 to 8 hours,3 to 5 hours,A,A,61 to 80%,Less than 5 hours,3.5 to 3.0
+Private,Books,Library,6 to 8 hours,3 to 5 hours,A,A,81 to 100%,6 to 10 hours,3.5 to 3.0
+Government,Internet,home,6 to 8 hours,1 to 2 hours,A,A,61 to 80%,Less than 5 hours,Less than 2.5
+Government,Internet,Hostel/Friend's Place,6 to 8 hours,3 to 5 hours,A1,B,61 to 80%,Less than 5 hours,2.9 to 2.5
+Government,Books,home,6 to 8 hours,1 to 2 hours,A,A,61 to 80%,Less than 5 hours,2.9 to 2.5
+Private,Notes given by teacher,Hostel/Friend's Place,6 to 8 hours,less-than 1 hour,A,A,41 to 60%,Less than 5 hours,3.5 to 3.0
+Government,Internet,Library,6 to 8 hours,less-than 1 hour,B,B,41 to 60%,Less than 5 hours,Less than 2.5
+Government,Notes given by teacher,home,6 to 8 hours,3 to 5 hours,A,A,41 to 60%,Less than 5 hours,Less than 2.5
+Private,All of them,Hostel/Friend's Place,6 to 8 hours,3 to 5 hours,A,A,61 to 80%,More than 15 hours,3.5 to 3.0
+Private,All of them,home,12 to 14 hours,less-than 1 hour,A,A,81 to 100%,Less than 5 hours,3.5 to 3.0
+Government,All of them,home,9 to 11 hours,3 to 5 hours,A1,B,81 to 100%,Less than 5 hours,4.0 to 3.6
+Government,All of them,home,9 to 11 hours,3 to 5 hours,A1 ,B,81 to 100%,Less than 5 hours,4.0 to 3.6
+Private,All of them,Hostel/Friend's Place,6 to 8 hours,3 to 5 hours,A,A,81 to 100%,6 to 10 hours,3.5 to 3.0
+Private,Books,home,6 to 8 hours,3 to 5 hours,A1,A,61 to 80%,6 to 10 hours,3.5 to 3.0
+Government,All of them,Library,6 to 8 hours,1 to 2 hours,A1,A,81 to 100%,Less than 5 hours,3.5 to 3.0
+Government,Notes prepare by yourself from lecture,home,6 to 8 hours,1 to 2 hours,A1,A,61 to 80%,Less than 5 hours,2.9 to 2.5
+Government,Internet,Any other place,3 to 5 hours,1 to 2 hours,A1,A,41 to 60%,Less than 5 hours,2.9 to 2.5
+Government,All of them,Library,6 to 8 hours,less-than 1 hour,A,A,61 to 80%,Less than 5 hours,3.5 to 3.0
+Private,Books,home,3 to 5 hours,6 to 9 hours,B,A,41 to 60%,Less than 5 hours,2.9 to 2.5
+Government,All of them,Hostel/Friend's Place,6 to 8 hours,1 to 2 hours,A1,A,61 to 80%,Less than 5 hours,2.9 to 2.5
+Government,Internet,Library,6 to 8 hours,1 to 2 hours,A1,A,61 to 80%,6 to 10 hours,3.5 to 3.0
+Government,Internet,home,12 to 14 hours,less-than 1 hour,A,B,41 to 60%,More than 15 hours,4.0 to 3.6
+Private,Notes given by teacher,Hostel/Friend's Place,9 to 11 hours,1 to 2 hours,A,A,61 to 80%,Less than 5 hours,2.9 to 2.5
+Private,Notes prepare by yourself from lecture,Hostel/Friend's Place,9 to 11 hours,3 to 5 hours,A,A,81 to 100%,Less than 5 hours,3.5 to 3.0
+Private,All of them,Any other place,6 to 8 hours,1 to 2 hours,A1,A1,61 to 80%,More than 15 hours,3.5 to 3.0
+Private,Internet,Library,9 to 11 hours,less-than 1 hour,A,A,81 to 100%,Less than 5 hours,2.9 to 2.5
+Private,Internet,Home,6 to 8 hours,3 to 5 hours,A1,A,41 to 60%,Less than 5 hours,4.0 to 3.6
+Government,Internet,Home,6 to 8 hours,3 to 5 hours,A1,B,61 to 80%,Less than 5 hours,4.0 to 3.6
+Government,Internet,Hostel/Friend's Place,6 to 8 hours,6 to 9 hours,A,A,81 to 100%,Less than 5 hours,3.5 to 3.0
+Private,All of them,Library,6 to 8 hours,1 to 2 hours,A1,A1,61 to 80%,6 to 10 hours,3.5 to 3.0
+Government,Internet,Any other place,3 to 5 hours,1 to 2 hours,A1,A,81 to 100%,6 to 10 hours,3.5 to 3.0
+Government,Notes prepare by yourself from lecture,Home,6 to 8 hours,less-than 1 hour,A1,A,81 to 100%,11 to 15 hours,4.0 to 3.6
+Government,Notes prepare by yourself from lecture,Home,6 to 8 hours,3 to 5 hours,A1,A1,81 to 100%,6 to 10 hours,4.0 to 3.6
+Government,All of them,Home,9 to 11 hours,3 to 5 hours,A1,A,81 to 100%,6 to 10 hours,4.0 to 3.6
+Private,Internet,Library,6 to 8 hours,3 to 5 hours,A,A,81 to 100%,6 to 10 hours,3.5 to 3.0
+Government,Internet,Any other place,9 to 11 hours,less-than 1 hour,A1,A,81 to 100%,6 to 10 hours,4.0 to 3.6
+Government,Internet,Any other place,9 to 11 hours,1 to 2 hours,A1,A,81 to 100%,6 to 10 hours,4.0 to 3.6
+Private,Internet,Library,3 to 5 hours,6 to 9 hours,A1,A,61 to 80%,6 to 10 hours,4.0 to 3.6
+Government,Notes prepare by yourself from lecture,Home,6 to 8 hours,1 to 2 hours,A1,A,61 to 80%,6 to 10 hours,4.0 to 3.6
+Semi-Government,All of them,Home,3 to 5 hours,3 to 5 hours,A,A,61 to 80%,6 to 10 hours,3.5 to 3.0
+Semi-Government,Internet,Home,3 to 5 hours,3 to 5 hours,A1,B,61 to 80%,6 to 10 hours,3.5 to 3.0
+Government,All of them,Any other place,9 to 11 hours,6 to 9 hours,A,B,81 to 100%,Less than 5 hours,2.9 to 2.5
+Government,Internet,Hostel/Friend's Place,6 to 8 hours,3 to 5 hours,A1,A,61 to 80%,Less than 5 hours,3.5 to 3.0
+Private,Internet,Any other place,6 to 8 hours,less-than 1 hour,A1 ,A,61 to 80%,6 to 10 hours,3.5 to 3.0
+Government,Internet,Home,3 to 5 hours,3 to 5 hours,A1,A,61 to 80%,6 to 10 hours,2.9 to 2.5
+Private,Internet,Home,6 to 8 hours,3 to 5 hours,A1,A,61 to 80%,Less than 5 hours,3.5 to 3.0
+Government,Internet,Home,3 to 5 hours,less-than 1 hour,A1,A,61 to 80%,11 to 15 hours,3.5 to 3.0
+Government,Internet,Home,6 to 8 hours,1 to 2 hours,A1,A,61 to 80%,6 to 10 hours,3.5 to 3.0
+Private,All of them,Home,9 to 11 hours,less-than 1 hour,A,A,61 to 80%,6 to 10 hours,3.5 to 3.0
+Private,Internet,Home,6 to 8 hours,3 to 5 hours,A,A1,61 to 80%,Less than 5 hours,3.5 to 3.0
+Government,Internet,Any other place,6 to 8 hours,1 to 2 hours,A,A,61 to 80%,Less than 5 hours,3.5 to 3.0
+Government,Notes given by teacher,Library,9 to 11 hours,1 to 2 hours,B,A1,81 to 100%,6 to 10 hours,Less than 2.5
+Private,Notes given by teacher,Hostel/Friend's Place,6 to 8 hours,3 to 5 hours,B,A,81 to 100%,Less than 5 hours,3.5 to 3.0
+Private,Notes prepare by yourself from leature,Home,3 to 5 hours,less-than 1 hour,A,A,81 to 100%,11 to 15 hours,4.0 to 3.6
+Government,Internet,Home,6 to 8 hours,1 to 2 hours,A1,A,61 to 80%,Less than 5 hours,2.9 to 2.5
+Private,All of them,Library,9 to 11 hours,3 to 5 hours,A,B,61 to 80%,6 to 10 hours,2.9 to 2.5
+Government,Notes prepare by yourself from leature,Home,6 to 8 hours,1 to 2 hours,A,A,81 to 100%,Less than 5 hours,4.0 to 3.6
+Government,Internet,Home,6 to 8 hours,1 to 2 hours,A1,B,81 to 100%,Less than 5 hours,4.0 to 3.6
+Government,Internet,Home,3 to 5 hours,3 to 5 hours,A1,B,81 to 100%,Less than 5 hours,4.0 to 3.6
+Government,Internet,Home,9 to 11 hours,less-than 1 hour,A1,A,81 to 100%,Less than 5 hours,4.0 to 3.6
+Government,Books,Library,6 to 8 hours,1 to 2 hours,A,B,81 to 100%,6 to 10 hours,3.5 to 3.0
+Private,All of them,Hostel/Friend's Place,6 to 8 hours,3 to 5 hours,A1,A,61 to 80%,6 to 10 hours,3.5 to 3.0
+Private,Internet,Library,3 to 5 hours,less-than 1 hour,A1,A1,81 to 100%,More than 15 hours,4.0 to 3.6
+Government,Internet,Home,6 to 8 hours,1 to 2 hours,A1,A1,61 to 80%,Less than 5 hours,3.5 to 3.0
+Government,All of them,Home,9 to 11 hours,3 to 5 hours,A1,B,61 to 80%,Less than 5 hours,3.5 to 3.0
+Government,All of them,Library,3 to 5 hours,less-than 1 hour,A1,A1,81 to 100%,More than 15 hours,3.5 to 3.0
+Private,Notes prepare by yourself from leature,Home,6 to 8 hours,1 to 2 hours,A1,A1,61 to 80%,Less than 5 hours,4.0 to 3.6
+Private,Notes prepare by yourself from leature,Home,6 to 8 hours,1 to 2 hours,A1,A1,61 to 80%,Less than 5 hours,4.0 to 3.6
+Government,Notes given by teacher,Home,6 to 8 hours,3 to 5 hours,A1,A,61 to 80%,6 to 10 hours,4.0 to 3.6
+Private,All of them,Home,9 to 11 hours,3 to 5 hours,A1,A,61 to 80%,Less than 5 hours,4.0 to 3.6
+Government,All of them,Library,6 to 8 hours,1 to 2 hours,A,A,81 to 100%,Less than 5 hours,3.5 to 3.0
+Government,All of them,Home,3 to 5 hours,less-than 1 hour,A,A,61 to 80%,6 to 10 hours,3.5 to 3.0
+Government,Internet,Home,6 to 8 hours,1 to 2 hours,A,A1,81 to 100%,Less than 5 hours,4.0 to 3.6
+Government,Books,Home,9 to 11 hours,3 to 5 hours,A,A,81 to 100%,6 to 10 hours,3.5 to 3.0
+Private,Internet,Home,9 to 11 hours,3 to 5 hours,A,A,81 to 100%,Less than 5 hours,4.0 to 3.6
+Government,Internet,Home,3 to 5 hours,less-than 1 hour,A1,A1,81 to 100%,6 to 10 hours,3.5 to 3.0
+Government,Books,Home,12 to 14 hours,6 to 9 hours,A,A,81 to 100%,Less than 5 hours,4.0 to 3.6
+Private,All of them,Hostel/Friend's Place,6 to 8 hours,1 to 2 hours,A1,A1,61 to 80%,6 to 10 hours,3.5 to 3.0
+Government,Internet,Home,6 to 8 hours,1 to 2 hours,A,A,61 to 80%,Less than 5 hours,3.5 to 3.0
+Government,All of them,Home,6 to 8 hours,1 to 2 hours,A1,A,81 to 100%,Less than 5 hours,4.0 to 3.6
+Private,Notes prepare by yourself from leature,Home,9 to 11 hours,3 to 5 hours,A,A,81 to 100%,6 to 10 hours,3.5 to 3.0
+Private,All of them,Hostel/Friend's Place,6 to 8 hours,1 to 2 hours,A,A,61 to 80%,6 to 10 hours,3.5 to 3.0
+Government,Notes given by teacher,Hostel/Friend's Place,6 to 8 hours,1 to 2 hours,A,A,81 to 100%,Less than 5 hours,3.5 to 3.0
+Private,All of them,Home,9 to 11 hours,3 to 5 hours,A,A,81 to 100%,More than 15 hours,4.0 to 3.6
+Government,Books,Library,6 to 8 hours,1 to 2 hours,A,A,61 to 80%,6 to 10 hours,3.5 to 3.0
+Government,All of them,Home,3 to 5 hours,1 to 2 hours,A1,A,81 to 100%,Less than 5 hours,4.0 to 3.6
+Private,All of them,Home,9 to 11 hours,3 to 5 hours,A1,A,81 to 100%,6 to 10 hours,4.0 to 3.6
+Private,All of them,Library,6 to 8 hours,1 to 2 hours,A1,B,81 to 100%,6 to 10 hours,3.5 to 3.0
+Government,All of them,Library,6 to 8 hours,1 to 2 hours,A,A,61 to 80%,Less than 5 hours,2.9 to 2.5
+Private,All of them,Home,6 to 8 hours,3 to 5 hours,A,A,81 to 100%,Less than 5 hours,2.9 to 2.5
+Private,All of them,Home,3 to 5 hours,less-than 1 hour,A,A,61 to 80%,6 to 10 hours,3.5 to 3.0
+Private,Internet,Library,6 to 8 hours,1 to 2 hours,A1,A,61 to 80%,Less than 5 hours,3.5 to 3.0
+Government,Books,Library,9 to 11 hours,3 to 5 hours,A,A,61 to 80%,6 to 10 hours,3.5 to 3.0
+Private,All of them,Library,6 to 8 hours,1 to 2 hours,A,A,61 to 80%,11 to 15 hours,3.5 to 3.0
+Government,Internet,Home,9 to 11 hours,3 to 5 hours,A,A,81 to 100%,Less than 5 hours,3.5 to 3.0
+Government,All of them,Home,6 to 8 hours,1 to 2 hours,A,A,81 to 100%,Less than 5 hours,3.5 to 3.0
+Government,Internet,Home,6 to 8 hours,1 to 2 hours,A1,A,61 to 80%,Less than 5 hours,4.0 to 3.6
+Private,All of them,Library,6 to 8 hours,1 to 2 hours,A,A,61 to 80%,Less than 5 hours,3.5 to 3.0
+Government,Notes given by teacher,Home,6 to 8 hours,3 to 5 hours,A,B,61 to 80%,Less than 5 hours,4.0 to 3.6
+Government,Notes given by teacher,Home,6 to 8 hours,less-than 1 hour,A,B,61 to 80%,Less than 5 hours,3.5 to 3.0
+Government,All of them,Library,6 to 8 hours,3 to 5 hours,A,A1,61 to 80%,Less than 5 hours,3.5 to 3.0
+Government,Notes prepare by yourself from leature,Home,6 to 8 hours,less-than 1 hour,A1,A,81 to 100%,6 to 10 hours,4.0 to 3.6
+Private,Notes prepare by yourself from leature,Home,6 to 8 hours,3 to 5 hours,B,A,81 to 100%,6 to 10 hours,4.0 to 3.6
+Semi-Government,Notes prepare by yourself from leature,Library,6 to 8 hours,less-than 1 hour,A1,A,61 to 80%,Less than 5 hours,3.5 to 3.0
+Private,Notes prepare by yourself from leature,Library,9 to 11 hours,6 to 9 hours,A,A,61 to 80%,Less than 5 hours,4.0 to 3.6
+Government,All of them,Hostel/Friend's Place,6 to 8 hours,1 to 2 hours,A,A,61 to 80%,6 to 10 hours,3.5 to 3.0
+Private,Notes prepare by yourself from leature,Home,6 to 8 hours,3 to 5 hours,A,B,61 to 80%,Less than 5 hours,3.5 to 3.0
+Private,Notes prepare by yourself from leature,Library,6 to 8 hours,1 to 2 hours,A,A,81 to 100%,Less than 5 hours,3.5 to 3.0
+Government,Notes prepare by yourself from leature,Home,6 to 8 hours,3 to 5 hours,A,A,61 to 80%,6 to 10 hours,3.5 to 3.0
